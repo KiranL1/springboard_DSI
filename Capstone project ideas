@@ -1,0 +1,20 @@
+Capstone ideas
+1. Study the patterns in US primary elections and build a model. Extrapolate and predict how the presidential election will turn out.
+The inputs could be the social media (twitter & facebook) presence of candidates, website traffic of individual candidates, ad spendings, campaign contributions, voter turnout, results in various states.
+
+The idea is to build a model and predict the election results if election happens now
+Client: News networks trying to predict the results for their viewers
+
+2. Energy consumption / greenhouse gases
+CO2    from Energy consumption and CO2 from transport -- identify how these two would change based on the rise of electric cars
+Data Source Links:
+http://www.tsp-data-portal.org/Breakdown-of-GHG-Emissions-by-Sector-and-Gas#tspQvChart
+
+The idea is to figure out if the car manufacturer’s claim of ‘zero emissions’ is valid.
+Client: Government or environmental agency; electric car manufacturers
+
+3. Find the connection among technology progress, education levels and unemployment.
+The challenge will be to
+
+The idea is to figure out how technology progress changes the employment. This can be due to change in skill set required,  or lag in technology education
+Client: Government for education policy
